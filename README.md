@@ -1,4 +1,4 @@
-# PHP Single Core CPU Benchmark
+# PHP Single Core CPU Benchmark (»Billion Loop Benchmark«)
 
 This is a oneliner script which measures the duration of a for-loop in PHP. 
 It is set to **1.000.000.000** iterations by default.
