@@ -11,13 +11,14 @@ Here's a comparison table for several ennvironments:
 
 | Computer Type | Avg. Duration |
 | --- | --- |
+| Lenovo Thinkpad T15 Gen2 2021 (Intel i7) | 5,4s |
+| Macbook Pro 2020 (Intel i7) | 17,6s |
 | All-Inkl L6 (intel i3 dedicated) | 2,5s |
-| Lenovo Thinkpad T15 Gen2 with Intel i7 | 5,4s |
 | Hetzner Server MA80 (Ryzen 7 dedicated) | 7,2s |
 | Hetzner Virtual Server MC60 (EPYC shared vCores) | 21,5s | 
 | Hetzner Cloud CCX23 (dedicated AMD) | 12,1s |
 | Hetzner Cloud CPX31 (shared AMD) | 14,3s |
-| Hetzner Cloud CAX11 (shared Ampere) | 12,0s | 
+| Hetzner Cloud CAX11 (shared Ampere) | 12,0s |
 | Hetzner Cloud CX22 (shared Intel, cost optmized) | 25,2s |
 
 ## The script
