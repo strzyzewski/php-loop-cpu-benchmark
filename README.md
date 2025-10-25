@@ -14,7 +14,7 @@ Here's a comparison table for several ennvironments:
 | Lenovo Thinkpad T15 Gen2 2021 (Intel i7) | 5,4s |
 | Macbook Pro 2020 (Intel i7) | 17,6s |
 | Mac Mini 2021 (M1) | 4,8s |
-| Mac Mini 2017 (Intel i7) | tbd |
+| Mac Mini 2017 (Intel i7) | 15,7s |
 | Macbook Pro 2024 (M4 Pro) | 3,6s |
 | All-Inkl Server L6 (intel i3 dedicated) | 2,5s |
 | All-Inkl Premium Shared Hosting | 14,5s |
