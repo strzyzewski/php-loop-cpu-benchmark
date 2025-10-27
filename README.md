@@ -9,22 +9,24 @@ It is set to **1.000.000.000** iterations by default.
 
 Here's a comparison table for several ennvironments:
 
-| Computer Type | Avg. Duration |
+| Computer Type | Avg. duration in seconds |
 | --- | --- |
-| Lenovo Thinkpad T15 Gen2 2021 (Intel i7) | 5,4s |
-| Macbook Pro 2020 (Intel i7) | 17,6s |
-| Mac Mini 2021 (M1) | 4,8s |
-| Mac Mini 2017 (Intel i7) | 15,7s |
-| Macbook Pro 2024 (M4 Pro) | 3,6s |
-| All-Inkl Server L6 (intel i3 dedicated) | 2,5s |
-| All-Inkl Premium Shared Hosting | 14,5s |
-| Ionos Premium Shared Hosting | 24,8s |
-| Hetzner Server MA80 (Ryzen 7 dedicated) | 7,2s |
-| Hetzner Virtual Server MC60 (EPYC shared vCores) | 21,5s | 
-| Hetzner Cloud CCX23 (dedicated AMD) | 12,1s |
-| Hetzner Cloud CPX31 (shared AMD) | 14,3s |
-| Hetzner Cloud CAX11 (shared Ampere) | 12,0s |
-| Hetzner Cloud CX22 (shared Intel, cost optimized) | 25,2s |
+| Lenovo Thinkpad T15 Gen2 2021 (Intel i7) | 5.4 |
+| Macbook Pro 2020 (Intel i7) | 17.6 |
+| Mac Mini 2021 (M1) | 4.8 |
+| Mac Mini 2017 (Intel i7) | 15.7 |
+| Macbook Pro 2024 (M4 Pro) | 3.6 |
+| All-Inkl Server L6 (Intel i3 dedicated) | 2.5 |
+| All-Inkl Server XL6 (Intel Xeon dedicated) | 13.5
+| All-Inkl Premium Shared Hosting | 14.5 |
+| Ionos Premium Shared Hosting | 24.8 |
+| Hetzner Dedicated Server MA80 (Ryzen 7 dedicated) | 7.2 |
+| Hetzner Virtual Server MC60 (EPYC shared vCores) | 21.5 | 
+| Hetzner Cloud CCX23 (dedicated AMD) | 12.1 |
+| Hetzner Cloud CPX31 (shared AMD) | 14.3 |
+| Hetzner Cloud CAX11 (shared Ampere) | 12.0 |
+| Hetzner Cloud CX22 (shared Intel, cost optimized) | 25.2 |
+| Hetzner Cloud CX23 (shared Intel/AMD, cost opmized) | 25.4 | 
 
 ## The script
 
