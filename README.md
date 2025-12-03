@@ -15,6 +15,7 @@ Here's a comparison table for several ennvironments:
 | Macbook Pro 2020 (Intel i7) | 17.6 |
 | Mac Mini 2021 (M1) | 4.8 |
 | Mac Mini 2017 (Intel i7) | 15.7 |
+| Macbook Pro 2021 (M1 Max) | 4.6 |
 | Macbook Pro 2024 (M4 Pro) | 3.6 |
 | All-Inkl Server L6 (Intel i3 dedicated) | 2.5 |
 | All-Inkl Server XL6 (Intel Xeon dedicated) | 13.5
