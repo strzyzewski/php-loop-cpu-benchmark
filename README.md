@@ -31,11 +31,18 @@ Here's a comparison table for several ennvironments:
 
 ## The script
 
-Run this in the shell:
+Run this in the **Shell:**
 
 ```php
 php -r '$loop=1_000_000_000; $t=microtime(true); $s=0; for($i=0;$i<$loop;$i++){ $s+=($i%7); } echo "Benchmark for " . $loop . " Iterations = " . microtime(true)-$t . " secs \n";'
 ```
+
+If you don't have PHP installed, you can run it in a temporary **Docker Container:**
+
+```php
+docker pull php:cli-alpine; docker run --rm php:cli-alpine -r '$loop=1_000_000_000; $t=microtime(true); $s=0; for($i=0;$i<$loop;$i++){ $s+=($i%7); } echo "Benchmark for ".$loop." Iterations = ".(microtime(true)-$t)." secs\n";'
+```
+
 
 At least PHP 8.0 is required. 
 
