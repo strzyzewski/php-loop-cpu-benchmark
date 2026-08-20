@@ -17,8 +17,8 @@ Here's a comparison table for several ennvironments:
 | Mac Mini 2017 (Intel i7) | 15.7 |
 | Macbook Pro 2021 (M1 Max) | 4.6 |
 | Macbook Pro 2024 (M4 Pro) | 3.6 |
-| All-Inkl Server L6 (Intel i3 dedicated) | 2.5 |
-| All-Inkl Server XL6 (Intel Xeon dedicated) | 13.5
+| All-Inkl Server L v6 (Intel i3 dedicated) | 5.2 |
+| All-Inkl Server XL v6 (Intel Xeon dedicated) | 13.5
 | All-Inkl Premium Shared Hosting | 14.5 |
 | Ionos Premium Shared Hosting | 24.8 |
 | Hetzner Dedicated Server MA80 (Ryzen 7 dedicated) | 7.2 |
@@ -37,7 +37,7 @@ Run this in the shell:
 php -r '$loop=1_000_000_000; $t=microtime(true); $s=0; for($i=0;$i<$loop;$i++){ $s+=($i%7); } echo "Benchmark for " . $loop . " Iterations = " . microtime(true)-$t . " secs \n";'
 ```
 
-At least PHP 7.4 is required. 
+At least PHP 8.0 is required. 
 
 **Note:**
 Some PHP CLIs don't allow the -r parameter. 
