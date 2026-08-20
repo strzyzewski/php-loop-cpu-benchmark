@@ -17,6 +17,7 @@ Here's a comparison table for several ennvironments:
 | Mac Mini 2017 (Intel i7) | 15.7 |
 | Macbook Pro 2021 (M1 Max) | 4.6 |
 | Macbook Pro 2024 (M4 Pro) | 3.6 |
+| Macbook Pro 2026 (M5 Pro) | 2.7 |
 | All-Inkl Server L v6 (Intel i3 dedicated) | 5.2 |
 | All-Inkl Server XL v6 (Intel Xeon dedicated) | 13.5
 | All-Inkl Premium Shared Hosting | 14.5 |
